@@ -1,0 +1,18 @@
+/*
+Theme Name: Affinity Child
+Theme URI: https://wordpress.com/themes/affinity-child
+Description: Affinity child theme.
+Version: 1.0.0
+Author: Mallory Knodel
+Author URI: http://wordpress.com/themes/
+Template: affinity-wpcom
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: affinity-wpcom-child
+*/
+
+.panel-navigation a,
+.panel-navigation a:visited {
+  font-size: 2.625rem;
+}
+
